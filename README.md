@@ -13,3 +13,5 @@ One by one and step by step, you will progress.
 2. VPC 
 
 3. EC2 
+
+4. S3 
