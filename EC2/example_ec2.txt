@@ -10,6 +10,12 @@
  Login as ssh-key pair.
  # dnf update
  You scp your apache files and PostgreSQL files to instance.
+ In this phase, you have all your programs and DBs in one instance.
+
+#### Elastic IP ####
+ Alert! Elastic IP is expensive.
+ You can manage your own or amazon's.
+ You attach Elastic IP to your instance.
 
 #### DNS ####
  You use no-ip as a DNS server, because in this phase, AWS
