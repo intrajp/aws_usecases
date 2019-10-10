@@ -1,0 +1,12 @@
+You are root.
+You set MFA on your.
+Nobdody can login as root but youl. 
+
+Create instance.
+Delete default VPC.
+Create public and private subnets.
+
+Delete default security group.
+Create security group.
+
+ 
