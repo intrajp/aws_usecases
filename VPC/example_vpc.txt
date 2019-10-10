@@ -1,0 +1,7 @@
+#### PVC ####
+ Delete default VPC.
+ Create new VPC 10.0.0.0/8.
+ Create public and private subnets.
+ For example, 10.10.0.0/24(public),10.11.0.0/24(public),
+ 10.12.0.0/24(private),10.13.0.0/24(private).
+

@@ -1,0 +1,16 @@
+#### IAM ####
+ Login as root user.
+ You set MFA
+ Download Google MFA program on your mobile phone.
+ You capture QR code and get numbers.
+ Now, nobdody can login as root but you with your mobile phone. 
+ Create new user.
+ Login as a new user.
+ Do not login as root.
+
+ Create Groups named whatever.
+ Create User in the created group.
+ Attach directory 'AdministratorAccess'.
+
+#### Logging ####
+ Enable CloudTrail
