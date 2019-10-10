@@ -1,0 +1,37 @@
+#### IAM ####
+ Login as root user.
+ You set MFA
+ Download Google MFA program on your mobile phone.
+ You capture QR code and get numbers.
+ Now, nobdody can login as root but you with your mobile phone. 
+ Create new user.
+ Login as a new user.
+ Do not login as root.
+
+#### PVC ####
+ Delete default VPC.
+ Create new VPC 10.0.0.0/8.
+ Create public and private subnets.
+ For example, 10.10.0.0/24(public),10.11.0.0/24(public),
+ 10.12.0.0/24(private),10.13.0.0/24(private).
+
+#### EC2 ####
+ Create instance in 10.10.0.0/24(public).
+ Fedora would be good with SELinux enabled.
+ Delete default security group.
+ Create security group.
+ Edit security group as open-port 22,80,443.
+ 22 as my ip. 
+
+#### Instance ####
+ Login as ssh-key pair.
+ # dnf update
+ You scp your apache files and PostgreSQL files to instance.
+
+#### DNS ####
+ You use no-ip as a DNS server, because in this phase, AWS
+ does not offer R53 at all.
+
+#### Check ####
+ With your web browser, access your page, http://...
+
