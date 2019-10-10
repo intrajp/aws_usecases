@@ -8,5 +8,8 @@ It may not perfect, but works.
 
 One by one and step by step, you will progress.
 
-Continues...
+1. GENERAL
 
+2. VPC 
+
+3. EC2 
