@@ -1,7 +1,18 @@
+You first read this blog post on five pillars.
+
+- operational excellence
+- security
+- reliability
+- performance efficiency
+- cost optimization
+
+https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
+
+Next you read these.
+
 https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
 https://aws.amazon.com/autoscaling/
 https://aws.amazon.com/autoscaling/pricing/
-https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 https://aws.amazon.com/certificate-manager/
 https://aws.amazon.com/cloudformation/
 https://aws.amazon.com/ec2/
