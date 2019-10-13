@@ -1,16 +1,21 @@
 #### IAM ####
  Login as root user.
- You set MFA
- Download Google MFA program on your mobile phone.
+ You set MFA like this.
+ Download Google Authenticator (MFA program) on your mobile phone.
  You capture QR code and get numbers.
  Now, nobdody can login as root but you with your mobile phone. 
  Create new user.
  Login as a new user.
  Do not login as root.
 
- Create Groups named whatever.
+ Create Groups named 'whatever-admin'.
  Create User in the created group.
  Attach directory 'AdministratorAccess'.
 
 #### Logging ####
- Enable CloudTrail
+ Enable CloudTrail.
+ Create trail Name 'whatever-log'.
+ Set Storage location S3 bucket 'whatever-logs'.
+ Go to 'Amazon S3/whatever-logs' and check logs.
+
+#### Amazon CloudWatch ####

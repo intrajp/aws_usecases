@@ -12,5 +12,18 @@
 
 #### ACL ####
  You use default ACL, but soon you will create new one.
- Create new ACL.
+ Goto 'VPC/Network ACLs'.
+ You will find your default ACL.
+ Create new ACL name 'drop1'.
+ You select 'deny1'.
+ You edit inbound Rules like this.
+ Remember that you only deny in VPC network only.
+ ----
+ Rule #|Type|Protocol|Port Range|Source|Allow/Deny| 
+       |ALL Traffic|ALL|ALL|x.x.x.x/x|DENY
+       |ALL Traffic|ALL|ALL|0.0.0.0/0|ALLOW
+
+#### Certificate Manager ####
+ Request a public certificate, maybe you already have one, so upload it.
+ 
 
