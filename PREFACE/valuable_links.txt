@@ -61,3 +61,9 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_server-certs.htm
 https://docs.aws.amazon.com/aws-technical-content/latest/cost-optimization-reservation-models/aws-cost-and-usage-report.html
 https://docs.aws.amazon.com/inspector/latest/userguide/inspector_introduction.html
 https://docs.aws.amazon.com/lambda/latest/dg/use-cases.html
+https://docs.aws.amazon.com/aws-technical-content/latest/aws-overview/six-advantages-of-cloud-computing.html
+https://aws.amazon.com/cloudwatch/
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/UsingIAM.html
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+https://aws.amazon.com/dynamodb/
+https://aws.amazon.com/emr/

@@ -1,0 +1,3 @@
+#### S3 ####
+ Create Buckets private or if you want it open to the world, make it public.
+  
