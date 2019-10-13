@@ -6,34 +6,52 @@ You first read this blog post on five pillars.
 - performance efficiency
 - cost optimization
 
-https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
+ https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 
 Next you read these.
 
+ https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
+ https://aws.amazon.com/autoscaling/
+ https://aws.amazon.com/autoscaling/pricing/
+ https://aws.amazon.com/certificate-manager/
+ https://aws.amazon.com/cloudformation/
+ https://aws.amazon.com/ec2/
+
+You really should read this stuff. 
+ https://aws.amazon.com/ec2/faqs/
+
+Others
+
+ https://aws.amazon.com/ec2/pricing/on-demand/
+--------
 https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
-https://aws.amazon.com/autoscaling/
-https://aws.amazon.com/autoscaling/pricing/
+https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 https://aws.amazon.com/certificate-manager/
-https://aws.amazon.com/cloudformation/
+https://aws.amazon.com/compliance/shared-responsibility-model/
 https://aws.amazon.com/ec2/
-https://aws.amazon.com/ec2/faqs/
-https://aws.amazon.com/ec2/pricing/on-demand/
 https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/
 https://aws.amazon.com/elasticbeanstalk/
 https://aws.amazon.com/elasticbeanstalk/faqs/
+https://aws.amazon.com/iam/; https://aws.amazon.com/vpc/
 https://aws.amazon.com/lambda/
 https://aws.amazon.com/managed-services/
+https://aws.amazon.com/nosql/
 https://aws.amazon.com/premiumsupport/compare-plans/
+https://aws.amazon.com/premiumsupport/features/
 https://aws.amazon.com/premiumsupport/trustedadvisor/
 https://aws.amazon.com/professional-services/CAF/
+https://aws.amazon.com/rds/
+https://aws.amazon.com/rds/reserved-instances/
 https://aws.amazon.com/route53/
 https://aws.amazon.com/s3/storage-classes/
 https://aws.amazon.com/security/
 https://aws.amazon.com/servicecatalog/
 https://aws.amazon.com/snowmobile/
 https://aws.amazon.com/tco-calculator/
+https://aws.amazon.com/vpc/
 https://d1.awsstatic.com/whitepapers/aws-overview.pdf
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-instance.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html
