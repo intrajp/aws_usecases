@@ -1,4 +1,4 @@
-#### IAM ####
+#### IAM (Identity and Access Management) ####
  Login as root user.
  You set MFA like this.
  Download Google Authenticator (MFA program) on your mobile phone.
@@ -12,6 +12,13 @@
  Create User in the created group.
  Attach directory 'AdministratorAccess'.
 
+ Access 'Management Console/My Organization'
+ Check what you have configured.
+ 
+#### Billing ####
+ Access 'Management Console/My Billing Dashboard'
+ Check the bills.
+
 #### Logging ####
  Enable CloudTrail.
  Create trail Name 'whatever-log'.
@@ -19,3 +26,6 @@
  Go to 'Amazon S3/whatever-logs' and check logs.
 
 #### Amazon CloudWatch ####
+
+#### Amazon Artifact ####
+ Download many documents. 

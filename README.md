@@ -6,12 +6,12 @@ Here's examples of how to deploy servers and maintain them properly.
 
 These are the prensent chapters
 
-0. PREFACE
+00-PREFACE
 
-1. GENERAL
+01-GENERAL
 
-2. VPC 
+02-VPC 
 
-3. EC2 
+03-EC2 
 
-4. S3 
+04-S3 
