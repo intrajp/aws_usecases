@@ -12,15 +12,31 @@
  You scp your apache files and PostgreSQL files to instance.
  In this phase, you have all your programs and DBs in one instance.
 
+ Take a snapshot.
+ Create instance in another region.
+ Use same security group as first one.
+
 #### Elastic IP ####
  Alert! Elastic IP is expensive.
  You can manage your own or amazon's.
  You attach Elastic IP to your instance.
+ You don't need Elastic IP any more if you follow ELB and R53 way. 
 
-#### DNS ####
- You use no-ip as a DNS server, because in this phase, AWS
- does not offer R53 at all.
+#### ELB (Elastic Load Balancer) ####
+ Create ELB as http and https.
+ You set 2 instances in a different region.
 
+#### R53 ####
+ You buy some dns name on R53. 
+
+ How to assign (alias) DNS record to your ELB in R53.
+  https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-elb-load-balancer.html
+
+ You don't need Elastic IP any more if you follow ELB and R53 way. 
+ Unless you release Elastic IP, you have to pay needless resource.
+ 
 #### Check ####
- With your web browser, access your page, http://...
+ With your web browser, access your page, http://<dns_name>
+ You down one of the instances and check the link is still healthy,
+ because ELB works fine.
 

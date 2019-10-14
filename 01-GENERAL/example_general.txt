@@ -26,6 +26,7 @@
  Go to 'Amazon S3/whatever-logs' and check logs.
 
 #### Amazon CloudWatch ####
+ Goto CloudWatch and see cpu usage of EC2 instance.
 
 #### Amazon Artifact ####
  Download many documents. 
