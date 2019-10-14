@@ -1,5 +1,7 @@
-You first read this blog post on five pillars.
+To understand what the cloud is, read this.
+ https://aws.amazon.com/what-is-cloud-computing/
 
+You first read this blog post on five pillars.
 - operational excellence
 - security
 - reliability
@@ -25,32 +27,46 @@ Others
  https://aws.amazon.com/ec2/pricing/on-demand/
 --------
 https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
+https://aws.amazon.com/answers/networking/aws-ddos-attack-mitigation/
+https://aws.amazon.com/autoscaling/
 https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 https://aws.amazon.com/certificate-manager/
+https://aws.amazon.com/cloudtrail/
+https://aws.amazon.com/cloudwatch/
 https://aws.amazon.com/compliance/shared-responsibility-model/
+https://aws.amazon.com/dynamodb/
 https://aws.amazon.com/ec2/
 https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/
 https://aws.amazon.com/elasticbeanstalk/
 https://aws.amazon.com/elasticbeanstalk/faqs/
+https://aws.amazon.com/emr/
 https://aws.amazon.com/iam/; https://aws.amazon.com/vpc/
 https://aws.amazon.com/lambda/
 https://aws.amazon.com/managed-services/
 https://aws.amazon.com/nosql/
+https://aws.amazon.com/partners/
 https://aws.amazon.com/premiumsupport/compare-plans/
 https://aws.amazon.com/premiumsupport/features/
+https://aws.amazon.com/premiumsupport/phd/
 https://aws.amazon.com/premiumsupport/trustedadvisor/
 https://aws.amazon.com/professional-services/CAF/
 https://aws.amazon.com/rds/
 https://aws.amazon.com/rds/reserved-instances/
 https://aws.amazon.com/route53/
+https://aws.amazon.com/s3/
 https://aws.amazon.com/s3/storage-classes/
 https://aws.amazon.com/security/
 https://aws.amazon.com/servicecatalog/
 https://aws.amazon.com/snowmobile/
 https://aws.amazon.com/tco-calculator/
 https://aws.amazon.com/vpc/
+https://aws.amazon.com/what-is-cloud-computing/
+https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
 https://d1.awsstatic.com/whitepapers/aws-overview.pdf
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/UsingIAM.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-instance.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html
@@ -58,12 +74,9 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.ht
 https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html
 https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_server-certs.html
+https://docs.aws.amazon.com/aws-technical-content/latest/aws-overview/six-advantages-of-cloud-computing.html
 https://docs.aws.amazon.com/aws-technical-content/latest/cost-optimization-reservation-models/aws-cost-and-usage-report.html
 https://docs.aws.amazon.com/inspector/latest/userguide/inspector_introduction.html
 https://docs.aws.amazon.com/lambda/latest/dg/use-cases.html
-https://docs.aws.amazon.com/aws-technical-content/latest/aws-overview/six-advantages-of-cloud-computing.html
-https://aws.amazon.com/cloudwatch/
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/UsingIAM.html
 https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
-https://aws.amazon.com/dynamodb/
-https://aws.amazon.com/emr/
+https://status.aws.amazon.com/

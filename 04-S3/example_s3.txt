@@ -1,0 +1,8 @@
+#### S3 ####
+ Read this.
+  https://aws.amazon.com/s3/
+  https://aws.amazon.com/s3/storage-classes/
+
+ Create Buckets private or if you want it open to the world, make it public.
+ Consider storage-classes.
+  
