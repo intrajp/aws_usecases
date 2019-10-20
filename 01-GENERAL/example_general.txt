@@ -30,3 +30,7 @@
 
 #### Amazon Artifact ####
  Download many documents. 
+
+#### Trusted Advisor ####
+ Go to 'Trusted Advisor' and check.
+

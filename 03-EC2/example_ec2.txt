@@ -38,8 +38,10 @@
 #### Certificate Manager ####
  After you get DNS from R53, you can set certificate manager to ELB.
 
-#### Check ####,
+#### Check ####
  With your web browser, access your page, http://<dns_name>, or https://<dns_name>.
  You down one of the instances and check the link is still healthy,
  because ELB works fine.
+
+#### EFS ####
 
