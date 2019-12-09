@@ -1,0 +1,10 @@
+# tasks/s3/create_accesskey_bucket.s3.yml
+# ---
+# Create a bucket, enable tag
+- s3_bucket:
+    name: "{{ bucket_name_create_general }}"
+    encryption: AES256
+    requester_pays: no 
+    versioning: no 
+    tags:
+      Name: key

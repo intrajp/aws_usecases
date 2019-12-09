@@ -1,0 +1,7 @@
+# tasks/s3/get_presigned_url.s3.yml
+# ---
+# get presigned url of private s3 bucket for temporary file sharing with executing python script
+- name: execute script 
+  script: "{{ pwd }}/tasks/s3/scripts/get_presigned_url.py"
+  args:
+    executable: python3
