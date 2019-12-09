@@ -1,0 +1,6 @@
+## hosts.inventory for AWS automation
+[s3]
+s3.ansibled
+
+[project.ansibled:children]
+s3

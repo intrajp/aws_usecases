@@ -1,0 +1,16 @@
+# group_vars/project.ansibled.yml
+# ---
+pwd: /tmp
+
+# general details about our s3 
+#
+task_designated: sample.yml
+bucket_name_create_general: mybucket
+
+# credentials for AWS (created with a command '$ ansible-vault encrypt_string "aws_access_key/aws_secret_key"
+#  --vault-password-file </path/to/password-file>')
+aws_region: ap-northeast-1
+
+# <!-- copy and paste the result of these commands here. -->
+# $ ansible-vault encrypt_string "aws_access_key of a user" --name 'aws_access_key'
+# $ ansible-vault encrypt_string "aws_secret_key of a user" --name 'aws_secret_key'

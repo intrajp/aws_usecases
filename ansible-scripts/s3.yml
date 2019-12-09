@@ -1,0 +1,18 @@
+# s3.yml
+# ---
+# playbook that runs our S3 tasks for any hosts in the `s3` group, providing AWS credentials in the environment 
+#
+- hosts: s3 
+  environment:
+    AWS_ACCESS_KEY_ID: "{{ aws_access_key }}"
+    AWS_SECRET_ACCESS_KEY: "{{ aws_secret_key }}"
+    AWS_REGION: "{{ aws_region }}"
+  tasks:
+    - include_tasks: "{{ task_designated }}"
+    #- include_tasks: tasks/s3/facts.yml
+
+# how to execute
+# ask vault password
+# $ ansible-playbook -vvv -i hosts.inventory s3.yml --ask-vault-pass
+# use clear text file for vault password
+# $ ansible-playbook -vvv -i hosts.inventory s3.yml --ask-password-file </path/to/password-file>
